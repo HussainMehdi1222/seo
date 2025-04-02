@@ -175,12 +175,12 @@ section .title::after{
 /* home section styling */
 .home{
     display: flex;
-    background: url("darktheme.jpg") no-repeat center;
+    background: url("seoFinal.jpg") no-repeat center;
     /* filter: brightness(70%); */
     backdrop-filter: brightness(50%);
     /* opacity: 0.9; */
     height: 100vh;
-    color: #fff;
+    color: #ffffff;
     min-height: 500px;
     background-size: cover;
     background-attachment: fixed;
